@@ -10,6 +10,7 @@
 body{
 	background :white;
 
+
 }
 div{
 	padding: 10px;
@@ -23,6 +24,7 @@ section{
 	border: 1px solid black;
 	margin:  0px 0px 30px 0px; 
 	width: 100%;
+	overflow: auto;
 
 }
 section:hover{
@@ -31,7 +33,6 @@ section:hover{
 h1{
 	margin: 50px 0 50px 0;
 	font-size: 175%;
-	text-shadow: text-shadow: 5px 50px blue;
 }
 h1,h2{
 	text-align: center;
